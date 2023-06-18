@@ -2,7 +2,7 @@ import requests
 import schedule
 import time
 
-url = 'https://yiyan.bobocdn.tk/api/yiyan'
+url = 'https://yiyan-pages.bobocdn.tk/api/yiyan'
 
 def check_website():
     try:
